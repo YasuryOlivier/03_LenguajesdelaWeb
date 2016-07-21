@@ -1,0 +1,14 @@
+
+p{
+	color:green;
+}
+h1{
+	font-family: 'Open Sans', sans-serif;
+}
+a{
+	text-decoration: none;
+}
+li>img{
+	border: solid;
+	color: blue;
+}
